@@ -1,4 +1,4 @@
-# fluttertodolistsqfliteapp
+# to_do_app with sqflite
 
 A new Flutter todolist sqflite application.
 
